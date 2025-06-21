@@ -1,19 +1,22 @@
-import Contact from './component/contect/page';
-import Hero from './component/hero/page';
-import Navbar from './component/navber/page';
-import Services from './component/services/page';
-import Work from './component/works/page';
-
+import About from './about/page';
+import Blog from './blog/page';
+import Hero from './hero/page';
+import Services from './services/page';
+import Portfolio from './portfolio/page';
+import Projects from './projects/page';
 
 
 const Home = () => {
     return (
         <div>
-            <Navbar />
-            <Hero/>
-            <Services/>
-            <Work/>
-            <Contact/>
+
+            <Hero />
+            <About />
+            <Services />
+            <Portfolio />
+            <Projects />
+            <Blog />
+
         </div>
     );
 };
