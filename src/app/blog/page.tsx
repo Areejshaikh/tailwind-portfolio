@@ -81,7 +81,7 @@ const Blog = () => {
                                                 I&apos;m Learning AI Alongside Web Development
                                             </h1>
                                             <p className="leading-relaxed mb-3 text-base-text line-clamp-2">
-                                                As a frontend developer, I believe AI is the future. In this post, I talk about how AI and web development go hand in hand — and why I joined the Governor's AI Program to level up my skills.
+                                                As a frontend developer, I believe AI is the future. In this post, I talk about how AI and web development go hand in hand — and why I joined the Governor&apos;s AI Program to level up my skills.
                                             </p>
 
 
@@ -124,7 +124,7 @@ const Blog = () => {
                                                 My First Step Towards Freelancing
                                             </h1>
                                             <p className="leading-relaxed mb-3 text-base-text line-clamp-3">
-                                                Freelancing is more than just earning online — it&apos;s about independence and growth. I'm building my profile, learning client communication, and preparing to offer frontend services globally.
+                                                Freelancing is more than just earning online — it&apos;s about independence and growth. I&apos;m building my profile, learning client communication, and preparing to offer frontend services globally.
 
                                             </p>
                                             <div className="flex items-center flex-wrap ">

@@ -54,7 +54,7 @@ function Portfolio() {
                     </h3>
                     <p
                         className="text-left my-4 text-base-text text-base font-semibold ">
-                        I created a website for a local horse club. It's a great way to showcase their products and events.
+                        I created a website for a local horse club. It&apos;s a great way to showcase their products and events.
                     </p>
                     <Link href={"https://horse-club-website.vercel.app/"} target="blank">
                         <Button name={"Live Demo"} icon={""}/>
@@ -76,7 +76,7 @@ function Portfolio() {
                     </h3>
                     <p
                         className="text-left my-4 text-base-text text-base font-semibold line-clamp-3">
-                        I designed and developed a responsive e-commerce website for a local fashion boutique. It's a great way to showcase their products and events.
+                        I designed and developed a responsive e-commerce website for a local fashion boutique. It&apos;s a great way to showcase their products and events.
                     </p>
                     <Link href={"https://nexj-js-website-css.vercel.app/"} target="blang">
                         <Button name={"Live Demo"} icon={""} />
@@ -98,7 +98,7 @@ function Portfolio() {
                     </h3>
                     <p
                         className="text-left my-4  text-base-text  text-base font-semibold">
-                        I created a website for a local horse club. It's a great way to showcase their products and events.
+                        I created a website for a local horse club. It&apos;s a great way to showcase their products and events.
                     </p>
                     <Link href={"https://new-project-copy-a372.vercel.app/"} target="blang">
                         <Button name={"Life Demo"} icon={""}/>
@@ -121,7 +121,7 @@ function Portfolio() {
                     </h3>
                     <p
                         className="text-left my-4 text-base-text text-base font-semibold">
-                        I created a responsive admin dashboard for a local fashion boutique. It's a great way to showcase their products and events.
+                        I created a responsive admin dashboard for a local fashion boutique. It&apos;s a great way to showcase their products and events.
                     </p>
                     <Link href={"https://admin-dashboardvercelapp.vercel.app/"} target="blang">
                         <Button name="live Demo" icon={""} />
@@ -163,7 +163,7 @@ function Portfolio() {
                     </h3>
                     <p
                         className="text-left my-4 text-base-text  text-base font-semibold">
-                        I created a website for a Block Website. It's a great way to showcase their products and events.
+                        I created a website for a Block Website. It&apos;s a great way to showcase their products and events.
 
                     </p>
                     <Link href={"https://milestone3-eta-tan.vercel.app/"} target="blang">

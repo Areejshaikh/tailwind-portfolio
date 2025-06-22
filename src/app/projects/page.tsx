@@ -4,7 +4,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 
 // Dummy images – replace with your own
-import Project1 from "../../../public/capture.jpg";
+import Project1 from "../../../public/block-website.jpg";
 import Project2 from "../../../public/image2.jpg";
 import Project3 from "../../../public/e-commerce.jpg";
 
@@ -37,7 +37,7 @@ const Projects = () => {
     <div id="projects" className="py-20 bg-white">
       <div className="text-center mb-12">
         <h2 className="text-4xl font-bold text-gray-800">My Projects</h2>
-        <p className="text-gray-500 mt-2">Here are some of the projects I've worked on recently.</p>
+        <p className="text-gray-500 mt-2">Here are some of the projects I&apos;ve worked on recently.</p>
       </div>
       <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
         {projects.map((project, index) => (

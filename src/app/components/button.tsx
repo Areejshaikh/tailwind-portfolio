@@ -1,5 +1,3 @@
-import { GrInstallOption } from 'react-icons/gr'
-
 interface ButtonProps {
     name: string;
     icon: React.ReactNode;

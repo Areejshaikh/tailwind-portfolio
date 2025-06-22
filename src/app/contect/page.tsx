@@ -93,7 +93,7 @@ function Contact() {
                     </button>
                     </form>
                     <p className="text-xs text-base-text mt-3">
-                    Thank you for hiring me! I'm excited to work with you.
+                    Thank you for hiring me! I&apos;m excited to work with you.
                     </p>
                 </div>
             </div>
